@@ -1,1 +1,10 @@
-# AICUP2023Spring
+環境配置:
+
+使用以下Docker image:
+https://catalog.ngc.nvidia.com/orgs/nvidia/containers/tensorflow
+nvcr.io/nvidia/tensorflow:22.08-tf2-py3
+
+安裝以下套件:
+librosa==0.10.0.post2
+
+
